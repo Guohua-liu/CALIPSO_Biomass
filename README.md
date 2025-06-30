@@ -1,4 +1,5 @@
 This document provides guidelines for the code used to map above-ground biomass based on radar backscatter data. Figure 1 illustrates the workflow of whole data process and model building. Each script is described below.
+
 **Step 1: Data Preprocessing**
   1.	01_radar_reformat_to_nc.py
   Converts radar backscatter data from TIFF format to netCDF format.
@@ -8,6 +9,7 @@ This document provides guidelines for the code used to map above-ground biomass 
   Filters the biomass and radar data.
   4.	04_merge_data_for_rf.py
   Prepares input data for training random forest models and predicting above-ground biomass.
+
 **Step 2: Building the Random Forest Model**
   1.	05_rf_train_agb_from_rad.py
   Trains the random forest model for above-ground biomass.
