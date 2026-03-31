@@ -16,4 +16,4 @@ Trains the random forest model for above-ground biomass.
 2.	06_rf_pred_agb.py
 Predicts above-ground biomass using the trained random forest models based on the radar backscatter data.
  
-Fig 1. Workflow for Mapping Above-Ground Biomass from Radar Backscatter Data
+Fig 1. workflow for Mapping Above-Ground Biomass from Radar Backscatter Data
