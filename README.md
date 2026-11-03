@@ -1,8 +1,7 @@
 # Code Instructions
-This repository contains the code for the manuscript:
-Liu, G., Ciais, P., Tao, S., Yang, H., Xiao, C., and Bastos, A.: A Moderate-Resolution, Long-Term Global Radar-Based Forest Above-Ground Biomass Dataset from 1993 to 2020, Earth Syst. Sci. Data, https://doi.org/10.5194/essd-2026-246, 2026.
+This repository contains the code associated with the manuscript “Liu, G., Ciais, P., Tao, S., Yang, H., Xiao, C., and Bastos, A.: A Moderate-Resolution, Long-Term Global Radar-Based Forest Above-Ground Biomass Dataset from 1993 to 2020, Earth Syst. Sci. Data, https://doi.org/10.5194/essd-2026-246, 2026.”. 
 
-This document describes the code used to map above-ground biomass (AGB) from radar backscatter data. Figure 1 shows the data-processing workflow and model-building steps.
+It describes the workflow for mapping above-ground biomass (AGB) from radar backscatter data. Figure 1 illustrates the data-processing and model-building steps.
 
 ## 1. Setup and requirements
 Install Python and the required packages before running the scripts. The project includes:
