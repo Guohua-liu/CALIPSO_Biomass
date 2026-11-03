@@ -1,0 +1,11 @@
+name: agb-mapping
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - xarray
+  - numpy
+  - pandas
+  - joblib
+  - geopandas
+  - scikit-learn
