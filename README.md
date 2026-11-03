@@ -17,4 +17,4 @@ Trains the random forest model for above-ground biomass.
 Predicts above-ground biomass using the trained random forest models based on the radar backscatter data.
  
 Fig 1. workflow for Mapping Above-Ground Biomass from Radar Backscatter Data
-![description]([https://user-images.githubusercontent.com/xxxxxxx.png](https://github.com/Guohua-liu/CALIPSO_Biomass/blob/main/AGB_Mapping/figs/Fig1.%20workflow.png))
+![description]([[https://github.com/Guohua-liu/CALIPSO_Biomass/blob/main/AGB_Mapping/figs/Fig1.%20workflow.png]
